@@ -1,10 +1,9 @@
-# 👋 Hi, I'm Zunaira Mughal
+#  Hi, I'm Zunaira Mughal
 **Flutter Developer | Software Engineer | AI & App Enthusiast**
 
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=I+build+Flutter+apps+for+the+future;I+turn+ideas+into+cross-platform+apps;I+love+clean+and+scalable+code)
 
 ---
-
 🚀 Flutter Developer building scalable cross-platform apps (Android, iOS, Web)
 💻 Experienced in Dart, Firebase, REST APIs, and State Management (Provider, Bloc, Riverpod)
 🎨 Focused on UI/UX design, performance optimization, and clean code
