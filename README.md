@@ -1,16 +1,15 @@
 #  Hi, I'm Zunaira Mughal
 **Flutter Developer | Software Engineer | AI & App Enthusiast**
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=I+build+Flutter+apps+for+the+future;I+turn+ideas+into+cross-platform+apps;I+love+clean+and+scalable+code)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=22&duration=4000&pause=1000&color=000000&center=true&lines=I%20build%20Flutter%20apps%20for%20the%20future;I%20turn%20ideas%20into%20cross-platform%20apps;I%20love%20clean%20and%20scalable%20code)
+
 
 ---
-🚀 Flutter Developer building scalable cross-platform apps (Android, iOS, Web)
-💻 Experienced in Dart, Firebase, REST APIs, and State Management (Provider, Bloc, Riverpod)
-🎨 Focused on UI/UX design, performance optimization, and clean code
-🌱 Always learning and exploring new technologies
-🤝 Open to collaboration, app publishing, AI integration, and mobile solutions
-
-"Building the future, one line of code at a time."
+🔭 Currently focused on building scalable cross-platform apps with Flutter
+👯 Open to collaborations on Flutter projects for Android, iOS, and Web
+🤝 Available for discussions on App Architecture, UI/UX, Firebase, API Integration, and State Management
+💬 Ask me about Flutter, Dart, Firebase, REST APIs, BLoC, Provider, GetX, and Git
+⚡ Fact: I love turning complex ideas into simple, elegant apps and constantly challenge myself to code smarter, not harder
 
 ---
 
@@ -40,6 +39,7 @@
 
 ---
 
-*"Building the future, one line of code at a time."*
+_Building the future, one line of code at a time._
+
 
 
