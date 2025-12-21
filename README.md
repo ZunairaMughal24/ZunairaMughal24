@@ -1,22 +1,21 @@
 #  Hi, I'm Zunaira Mughal
 **Flutter Developer | Software Engineer | AI & App Enthusiast**
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=22&duration=4000&pause=1000&color=000000&center=true&lines=I%20build%20Flutter%20apps%20for%20the%20future;I%20turn%20ideas%20into%20cross-platform%20apps;I%20love%20clean%20and%20scalable%20code)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?lines=I+build+Flutter+apps;I+turn+ideas+into+apps;I+love+clean+code&font=Fira+Code&size=22&pause=1000&color=000000&center=true)
 
 
 ---
-🔭 Currently focused on building scalable cross-platform apps with Flutter
-👯 Open to collaborations on Flutter projects for Android, iOS, and Web
-🤝 Available for discussions on App Architecture, UI/UX, Firebase, API Integration, and State Management
-💬 Ask me about Flutter, Dart, Firebase, REST APIs, BLoC, Provider, GetX, and Git
-⚡ Fact: I love turning complex ideas into simple, elegant apps and constantly challenge myself to code smarter, not harder
+- 🔭 Currently focused on building scalable cross-platform apps with Flutter
+- 👯 Open to collaborations on Flutter projects for Android, iOS, and Web
+- 🤝 Available for discussions on App Architecture, UI/UX, Firebase, API Integration, and State Management
+- 💬 Ask me about Flutter, Dart, Firebase, REST APIs, BLoC, Provider, GetX, and Git
+- ⚡ Fact: I love turning complex ideas into simple, elegant apps and constantly challenge myself to code smarter, not harder
+
 
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zunairamughal/)  
-  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](zunairamughal.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zunairamughal/) | [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](zunairamughal.dev@gmail.com)
 
 ---
 
