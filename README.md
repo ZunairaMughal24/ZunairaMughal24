@@ -1,7 +1,7 @@
 #  Hi, I'm Zunaira Mughal
 **Flutter Developer | Software Engineer | AI & App Enthusiast**
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?lines=I+build+Flutter+apps;I+turn+ideas+into+apps;I+love+clean+code&font=Fira+Code&size=22&pause=1000&color=000000&center=true)
+[![Typing Animation](https://readme-typing-svg.herokuapp.com?](https://readme-typing-svg.herokuapp.com?...)lines=I+build+Flutter+apps;I+turn+ideas+into+apps;I+love+clean+code&font=Fira+Code&size=22&pause=1000&color=000000&center=true)
 
 
 ---
@@ -34,7 +34,7 @@
 ## 🚀 GitHub Stats
 ![Zunaira's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZunairaMughal24&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZunairaMughal24&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZunairaMughal24&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZunairaMughal24&theme=radical)](https://streak-stats.demolab.com/?user=ZunairaMughal24&theme=radical)
 
 ---
 
