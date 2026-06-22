@@ -34,7 +34,7 @@
 ## 🚀 GitHub Stats
 ![Zunaira's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZunairaMughal24&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZunairaMughal24&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZunairaMughal24&theme=radical)](https://streak-stats.demolab.com/?user=ZunairaMughal24&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ZunairaMughal24&theme=radical)
 
 ---
 
