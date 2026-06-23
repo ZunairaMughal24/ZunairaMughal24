@@ -34,6 +34,7 @@ Remote · Open to contracts, freelance & full-time roles 🌍
     <td>AI-powered tools · Healthcare booking platforms · E-commerce with admin dashboards · Accessibility-focused apps</td>
   </tr>
 </table>
+
 ---
 
 ## 💼 Featured Projects
@@ -67,7 +68,7 @@ A task management app designed specifically for users with ADHD — featuring co
 ## 🤝 Let's Work Together
 
 | | |
-|---|---|
+
 | 💼 **Availability** | Freelance · Remote Contracts · Full-time |
 | 🌍 **Clients** | Open worldwide |
 | ⚡ **Response Time** | Within 24 hours |
