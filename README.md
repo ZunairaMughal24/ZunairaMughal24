@@ -11,7 +11,7 @@ Remote · Open to contracts, freelance & full-time roles 🌍
 | | |
 |---|---|
 | 🧑‍💻 **Role** | Flutter Developer |
-| ⏳ **Experience** | 2–3 years |
+| ⏳ **Experience** | 3+ years |
 | 📍 **Location** | Pakistan 🇵🇰 · Remote Worldwide 🌍 |
 | 🎯 **Focus** | Polished UI/UX + Firebase/API integration |
 | 🟢 **Open to Work** | Yes |
@@ -92,4 +92,4 @@ A task management app designed specifically for users with ADHD — featuring co
 
 ---
 
-_Building the future, one line of code at a time._
+_Turning ideas into actual software. No fluff._
