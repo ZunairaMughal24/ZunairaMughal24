@@ -1,4 +1,4 @@
-# Hi, I'm Zunaira Mughal 👋
+# Hi, I'm Zunaira Mughal 
 **Flutter Developer | Software Engineer | AI & App Enthusiast**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=I+build+Flutter+apps;I+turn+ideas+into+apps;I+love+clean+code)](https://git.io/typing-svg)
