@@ -10,11 +10,11 @@ Remote · Open to contracts, freelance & full-time roles 🌍
 
 | | |
 |---|---|
-| 🧑‍💻 **Role** | Flutter Developer |
-| ⏳ **Experience** | 3+ years |
+| 🧑‍💻 **Role**  | Flutter Developer |
+| ⏳ **Experience**  | 3+ years |
 | 📍 **Location** | Pakistan 🇵🇰 · Remote Worldwide 🌍 |
 | 🎯 **Focus** | Polished UI/UX + Firebase/API integration |
-| 🟢 **Open to Work** | Yes |
+| 🟢 **Open to Work**  | Yes |
 | 🚀 **Expertise** | AI-powered tools · Healthcare booking platforms · E-commerce with admin dashboards · Accessibility-focused apps |
 
 ---
