@@ -8,15 +8,32 @@ Remote · Open to contracts, freelance & full-time roles 🌍
 
 ### 👩‍💻 About Me
 
-|  |  |
-|----|----|
-| 🧑‍💻 **Role** | Flutter Developer |
-| ⏳ **Experience** | 3+ years |
-| 📍 **Location** | Pakistan 🇵🇰 · Remote Worldwide 🌍 |
-| 🎯 **Focus** | Polished UI/UX + Firebase/API integration |
-| 🟢 **<nobr>Open to Work</nobr>** | Yes |
-| 🚀 **Expertise** | AI-powered tools · Healthcare booking platforms · E-commerce with admin dashboards · Accessibility-focused apps |
-
+<table>
+  <tr>
+    <td width="25%">🧑‍💻 <b>Role</b></td>
+    <td>Flutter Developer</td>
+  </tr>
+  <tr>
+    <td>⏳ <b>Experience</b></td>
+    <td>3+ years</td>
+  </tr>
+  <tr>
+    <td>📍 <b>Location</b></td>
+    <td>Pakistan 🇵🇰 · Remote Worldwide 🌍</td>
+  </tr>
+  <tr>
+    <td>🎯 <b>Focus</b></td>
+    <td>Polished UI/UX + Firebase/API integration</td>
+  </tr>
+  <tr>
+    <td>🟢 <b>Open to Work</b></td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <td>🚀 <b>Expertise</b></td>
+    <td>AI-powered tools · Healthcare booking platforms · E-commerce with admin dashboards · Accessibility-focused apps</td>
+  </tr>
+</table>
 ---
 
 ## 💼 Featured Projects
