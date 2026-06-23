@@ -8,21 +8,14 @@ Remote · Open to contracts, freelance & full-time roles 🌍
 
 ### 👩‍💻 About Me
 
-​```dart
-class ZunairaMughal extends FlutterDeveloper {
-  final String experience = "3+ years";
-  final String location   = "Pakistan 🇵🇰 · Remote Worldwide 🌍";
-  final String focus      = "Polished UI/UX + Firebase/API integration";
-  final bool openToWork   = true;
-
-  List<String> get expertise => [
-    "AI-powered tools (resume analysis, ATS scoring)",
-    "Healthcare booking & appointment platforms",
-    "E-commerce apps with full admin dashboards",
-    "Accessibility-focused apps (ADHD task management)",
-  ];
-}
-​```
+| | |
+|---|---|
+| 🧑‍💻 **Role** | Flutter Developer |
+| ⏳ **Experience** | 2–3 years |
+| 📍 **Location** | Pakistan 🇵🇰 · Remote Worldwide 🌍 |
+| 🎯 **Focus** | Polished UI/UX + Firebase/API integration |
+| 🟢 **Open to Work** | Yes |
+| 🚀 **Expertise** | AI-powered tools · Healthcare booking platforms · E-commerce with admin dashboards · Accessibility-focused apps |
 
 ---
 
