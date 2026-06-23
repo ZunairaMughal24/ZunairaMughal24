@@ -1,8 +1,8 @@
-# Hi, I'm Zunaira Mughal 
+# Hi, I'm Zunaira Mughal 👋
 **Flutter Mobile (iOS + Android) & Web App Developer**
 Remote · Open to contracts, freelance & full-time roles 🌍
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=I+build+Flutter+apps;I+turn+ideas+into+apps;I+love+clean+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A0522D&center=true&vCenter=true&width=600&lines=I+build+Flutter+apps;I+turn+ideas+into+apps;I+love+clean+code)](https://git.io/typing-svg)
 
 ---
 
@@ -59,8 +59,8 @@ A task management app designed specifically for users with ADHD — featuring co
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zunairamughal/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zunairamughal.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=A0522D)](https://www.linkedin.com/in/zunairamughal/)
+[![Email](https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=A0522D)](mailto:zunairamughal.dev@gmail.com)
 
 ---
 
@@ -69,12 +69,12 @@ A task management app designed specifically for users with ADHD — featuring co
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Hive](https://img.shields.io/badge/Hive-FFA000?style=for-the-badge&logoColor=white)
-![BLoC](https://img.shields.io/badge/BLoC-00D2FF?style=for-the-badge&logoColor=white)
-![Provider](https://img.shields.io/badge/Provider-13B9FD?style=for-the-badge&logoColor=white)
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-4B0082?style=for-the-badge&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC-2E8B57?style=for-the-badge&logoColor=white)
-![MVVM](https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-A0522D?style=for-the-badge&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC-8B4513?style=for-the-badge&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-C1502E?style=for-the-badge&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-6B3410?style=for-the-badge&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-A0522D?style=for-the-badge&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-8B4513?style=for-the-badge&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -84,9 +84,9 @@ A task management app designed specifically for users with ADHD — featuring co
 ---
 
 ## 🚀 GitHub Stats
-![Zunaira's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZunairaMughal24&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZunairaMughal24&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=ZunairaMughal24&theme=radical&v=2)
+![Zunaira's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZunairaMughal24&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C1502E&icon_color=A0522D&text_color=FFFFFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZunairaMughal24&layout=compact&hide_border=true&bg_color=0D1117&title_color=C1502E&text_color=FFFFFF)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ZunairaMughal24&hide_border=true&background=0D1117&ring=C1502E&fire=A0522D&currStreakLabel=C1502E&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF)
 
 ---
 
