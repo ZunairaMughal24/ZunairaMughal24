@@ -70,7 +70,6 @@ A task management app designed specifically for users with ADHD — featuring co
 
 | | |
 |---|---|
-
 | 💼 **Availability** | Freelance · Remote Contracts · Full-time |
 | 🌍 **Clients** | Open worldwide |
 | ⚡ **Response Time** | Within 24 hours |
