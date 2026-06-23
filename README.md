@@ -85,7 +85,9 @@ A task management app designed specifically for users with ADHD — featuring co
 
 ## 🚀 GitHub Stats
 ![Zunaira's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZunairaMughal24&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D2601A&icon_color=D2601A&text_color=FFFFFF)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZunairaMughal24&layout=compact&hide_border=true&bg_color=0D1117&title_color=D2601A&text_color=FFFFFF)
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ZunairaMughal24&hide_border=true&background=0D1117&ring=D2601A&fire=D2601A&currStreakLabel=D2601A&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF)
 
 ---
