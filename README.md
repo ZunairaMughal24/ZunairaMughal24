@@ -1,4 +1,4 @@
-# Hi, I'm Zunaira Mughal 👋
+# Hi, I'm Zunaira Mughal 
 **Flutter Mobile (iOS + Android) & Web App Developer**
 Remote · Open to contracts, freelance & full-time roles 🌍
 
@@ -8,7 +8,7 @@ Remote · Open to contracts, freelance & full-time roles 🌍
 
 ### 👩‍💻 About Me
 
-```dart
+​```dart
 class ZunairaMughal extends FlutterDeveloper {
   final String experience = "2-3 years";
   final String location   = "Pakistan 🇵🇰 · Remote Worldwide 🌍";
@@ -22,7 +22,7 @@ class ZunairaMughal extends FlutterDeveloper {
     "Accessibility-focused apps (ADHD task management)",
   ];
 }
-```
+​```
 
 ---
 
@@ -77,7 +77,11 @@ A task management app designed specifically for users with ADHD — featuring co
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Hive](https://img.shields.io/badge/Hive-FFA000?style=for-the-badge&logoColor=white)
-![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC-00D2FF?style=for-the-badge&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-13B9FD?style=for-the-badge&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-4B0082?style=for-the-badge&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-2E8B57?style=for-the-badge&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
