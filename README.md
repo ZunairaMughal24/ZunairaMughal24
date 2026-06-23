@@ -67,7 +67,9 @@ A task management app designed specifically for users with ADHD — featuring co
 
 ## 🤝 Let's Work Together
 
+
 | | |
+|---|---|
 
 | 💼 **Availability** | Freelance · Remote Contracts · Full-time |
 | 🌍 **Clients** | Open worldwide |
