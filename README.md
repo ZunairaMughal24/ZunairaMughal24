@@ -10,7 +10,7 @@ Remote · Open to contracts, freelance & full-time roles 🌍
 
 ​```dart
 class ZunairaMughal extends FlutterDeveloper {
-  final String experience = "2-3 years";
+  final String experience = "3+ years";
   final String location   = "Pakistan 🇵🇰 · Remote Worldwide 🌍";
   final String focus      = "Polished UI/UX + Firebase/API integration";
   final bool openToWork   = true;
