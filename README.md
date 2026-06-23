@@ -10,11 +10,11 @@ Remote · Open to contracts, freelance & full-time roles 🌍
 
 <table>
   <tr>
-    <td width="25%"> <b>Role</b></td>
+    <td width="25%">  <b>Role</b></td>
     <td>Flutter Developer</td>
   </tr>
   <tr>
-    <td> <b>Experience</b></td>
+    <td>  <b>Experience</b></td>
     <td>3+ years</td>
   </tr>
   <tr>
@@ -30,7 +30,7 @@ Remote · Open to contracts, freelance & full-time roles 🌍
     <td>Yes</td>
   </tr>
   <tr>
-    <td><b>Expertise</b></td>
+    <td><b>  Expertise</b></td>
     <td>AI-powered tools · Healthcare booking platforms · E-commerce with admin dashboards · Accessibility-focused apps</td>
   </tr>
 </table>
