@@ -6,7 +6,7 @@ Remote · Open to contracts, freelance & full-time roles
 
 ---
 
-### 👤 About Me
+### About Me
 
 <table>
   <tr>
