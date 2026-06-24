@@ -6,38 +6,38 @@ Remote · Open to contracts, freelance & full-time roles
 
 ---
 
-### About Me
+### 👤 About Me
 
 <table>
   <tr>
-    <td width="25%"><b>Role</b></td>
+    <td width="25%">💻 <b>Role</b></td>
     <td>Flutter Developer</td>
   </tr>
   <tr>
-    <td><b>Experience</b></td>
+    <td>📈 <b>Experience</b></td>
     <td>3+ years</td>
   </tr>
   <tr>
-    <td><b>Location</b></td>
+    <td>📍 <b>Location</b></td>
     <td>Pakistan 🇵🇰 · Remote Worldwide</td>
   </tr>
   <tr>
-    <td><b>Focus</b></td>
+    <td>🎯 <b>Focus</b></td>
     <td>Polished UI/UX + Firebase/API integration</td>
   </tr>
   <tr>
-    <td><b>Status</b></td>
+    <td>🟢 <b>Status</b></td>
     <td>Open to Work</td>
   </tr>
   <tr>
-    <td><b>Expertise</b></td>
+    <td>🚀 <b>Expertise</b></td>
     <td>AI-powered tools · Healthcare booking platforms · E-commerce with admin dashboards · Accessibility-focused apps</td>
   </tr>
 </table>
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### AI Resume Analyzer
 An AI-powered resume analysis tool that scores resumes against ATS (Applicant Tracking System) criteria and provides actionable improvement suggestions. Includes both AI-assisted resume editing and a from-scratch resume builder.
@@ -65,7 +65,7 @@ A task management app designed specifically for users with ADHD — featuring co
 
 ---
 
-## Professional Inquiries
+## 💼 Professional Inquiries
 
 | | |
 |---|---|
@@ -76,13 +76,13 @@ A task management app designed specifically for users with ADHD — featuring co
 
 ---
 
-## Connect with Me
+## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=D2601A)](https://www.linkedin.com/in/zunairamughal/)
 [![Email](https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=D2601A)](mailto:zunairamughal.dev@gmail.com)
 
 ---
 
-## Languages and Tools
+## 🛠️ Tech Stack & Tools
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -101,7 +101,7 @@ A task management app designed specifically for users with ADHD — featuring co
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 ![Zunaira's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZunairaMughal24&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D2601A&icon_color=D2601A&text_color=FFFFFF)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZunairaMughal24&layout=compact&hide_border=true&bg_color=0D1117&title_color=D2601A&text_color=FFFFFF)
