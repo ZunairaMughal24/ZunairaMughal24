@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FFD700&center=true&vCenter=true&width=800&lines=Building+production-grade+Flutter+experiences;Engineering+clean%2C+scalable+mobile+architecture;Turning+complex+problems+into+seamless+apps" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FFD700&center=true&vCenter=true&width=800&lines=%E2%9C%A8+Building+production-grade+Flutter+experiences+%F0%9F%9A%80;%F0%9F%9B%A0%EF%B8%8F+Engineering+clean%2C+scalable+mobile+architecture+%F0%9F%92%BB;%F0%9F%94%8C+Turning+complex+problems+into+seamless+apps+%F0%9F%8E%AF" alt="Typing SVG" /></a>
 </p>
 
 ---
@@ -119,7 +119,7 @@ A task management app designed specifically for users with ADHD — featuring co
 ![Hive](https://img.shields.io/badge/Hive-D2601A?style=for-the-badge&logoColor=white)
 ![BLoC](https://img.shields.io/badge/BLoC-D2601A?style=for-the-badge&logoColor=white)
 ![Provider](https://img.shields.io/badge/Provider-D2601A?style=for-the-badge&logo=provider&logoColor=white)
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-D2601A?style=for-the-badge&logo=white)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-D2601A?style=for-the-badge&logoColor=white)
 ![MVC](https://img.shields.io/badge/MVC-D2601A?style=for-the-badge&logoColor=white)
 ![MVVM](https://img.shields.io/badge/MVVM-D2601A?style=for-the-badge&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -143,7 +143,7 @@ A task management app designed specifically for users with ADHD — featuring co
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="35" /> Professional Inquiries
+## Professional Inquiries
 
 | Category | Details |
 |---|---|
