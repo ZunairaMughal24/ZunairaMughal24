@@ -6,8 +6,8 @@
 <!-- SIMULATED WEBSITE NAVIGATION BAR -->
 <p align="center">
   <a href="#about"><b>About Me</b></a> &nbsp;•&nbsp; 
-  <a href="#projects"><b>Featured Projects</b></a> &nbsp;•&nbsp; 
   <a href="#stack"><b>Tech Stack</b></a> &nbsp;•&nbsp; 
+  <a href="#projects"><b>Featured Projects</b></a> &nbsp;•&nbsp; 
   <a href="#stats"><b>Analytics</b></a> &nbsp;•&nbsp; 
   <a href="#contact"><b>Get In Touch</b></a>
 </p>
@@ -26,91 +26,42 @@
 
 ---
 
-<!-- TWO-COLUMN BENTO SECTION (ABOUT & STATS SUMMARY) -->
-## 👤 The Developer Profile
+## 👤 Developer Profile & Information
 
-<table width="100%" border="0" cellpadding="10" cellspacing="0">
+<table width="100%">
   <tr>
-    <!-- Left Column: Bio -->
-    <td width="60%" valign="top" style="border: none;">
-      <h3>⚡ About Me</h3>
-      <p>I am a detail-oriented Flutter Developer with 3+ years of experience engineering high-performance, responsive cross-platform applications.</p>
-      <p>I specialize in translating complex architectural ideas into fluid, production-grade applications that maintain 60fps performance and strictly adhere to clean design principles.</p>
-      <p><b>📍 Location:</b> Pakistan 🇵🇰 (Available worldwide for remote work)</p>
+    <!-- Left Column: Modern Key-Value Table -->
+    <td width="55%" valign="top">
+      <h3>📋 Developer Specs</h3>
+      <table width="100%">
+        <tr>
+          <td>💼 <b>Role</b></td>
+          <td>Senior Flutter Developer</td>
+        </tr>
+        <tr>
+          <td>📈 <b>Experience</b></td>
+          <td>3+ Years</td>
+        </tr>
+        <tr>
+          <td>📍 <b>Location</b></td>
+          <td>Pakistan 🇵🇰 (Remote Worldwide)</td>
+        </tr>
+        <tr>
+          <td>🎯 <b>Primary Focus</b></td>
+          <td>Custom UI/UX & Native API Integrations</td>
+        </tr>
+        <tr>
+          <td>🚀 <b>Specialty</b></td>
+          <td>AI Tools, FinTech, E-Commerce, Healthcare Booking</td>
+        </tr>
+      </table>
     </td>
-    <!-- Right Column: Focus Areas -->
-    <td width="40%" valign="top" style="border: none; background-color: #1a1a1a; border-radius: 8px; padding: 15px;">
-      <h3 style="color: #D2601A;">🎯 Core Competencies</h3>
-      <ul>
-        <li><b>Architecture:</b> BLoC, Provider, MVVM, Clean Architecture</li>
-        <li><b>UI/UX:</b> High-fidelity custom animations, responsive grids</li>
-        <li><b>Backend:</b> Firebase, Supabase, REST APIs, Hive DB</li>
-        <li><b>Integrations:</b> Real-time WebRTC, AI, payment gateways</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br id="projects">
-
----
-
-<!-- PORTFOLIO GRID SECTION (2x2 WEBSITE CARDS) -->
-## 📱 Featured Engineering Projects
-
-<table width="100%" border="0" cellpadding="10" cellspacing="0">
-  <!-- Row 1 -->
-  <tr>
-    <!-- Card 1: AI Resume Analyzer -->
-    <td width="50%" valign="top" style="border: 1px solid #333; border-radius: 8px; padding: 15px; background: #121212;">
-      <h3 style="color: #D2601A;">🤖 01. AI Resume Analyzer</h3>
-      <p>An intelligent applicant tracking system (ATS) optimization tool that parses resumes, pinpoints skill gaps, and guides real-time improvements.</p>
-      <p>
-        <code style="background-color: #1e1e1e; color: #fff;">Flutter</code> 
-        <code style="background-color: #1e1e1e; color: #fff;">AI/NLP</code> 
-        <code style="background-color: #1e1e1e; color: #fff;">Firebase</code>
+    <!-- Right Column: Quick Bio Card -->
+    <td width="45%" valign="top" style="background-color: #121212; border-radius: 8px; padding: 15px;">
+      <h3 style="color: #D2601A; margin-top: 0;">⚡ Executive Summary</h3>
+      <p style="font-size: 14px; line-height: 1.6;">
+        Detail-oriented mobile engineer specializing in the Flutter & Dart ecosystem. I design and launch seamless cross-platform products optimized for peak performance, secure caching, clean architecture, and ultimate accessibility.
       </p>
-      <hr style="border-color: #333;" />
-      <p align="right"><a href="#"><b>View Project →</b></a></p>
-    </td>
-    <!-- Card 2: ADHD Task Manager -->
-    <td width="50%" valign="top" style="border: 1px solid #333; border-radius: 8px; padding: 15px; background: #121212;">
-      <h3 style="color: #D2601A;">🧠 02. ADHD Task Manager</h3>
-      <p>A cognitive-accessible productivity tool that gamifies tasks through customizable local micro-timers and reward feedback loops.</p>
-      <p>
-        <code style="background-color: #1e1e1e; color: #fff;">Flutter</code> 
-        <code style="background-color: #1e1e1e; color: #fff;">Hive DB</code> 
-        <code style="background-color: #1e1e1e; color: #fff;">Local Push</code>
-      </p>
-      <hr style="border-color: #333;" />
-      <p align="right"><a href="#"><b>View Project →</b></a></p>
-    </td>
-  </tr>
-  <!-- Row 2 -->
-  <tr>
-    <!-- Card 3: Doctor Appointment App -->
-    <td width="50%" valign="top" style="border: 1px solid #333; border-radius: 8px; padding: 15px; background: #121212;">
-      <h3 style="color: #D2601A;">🩺 03. Telehealth Booking</h3>
-      <p>Telemedicine portal supporting active calendar bookings and live WebRTC audio/video calling integrations directly inside the application.</p>
-      <p>
-        <code style="background-color: #1e1e1e; color: #fff;">Flutter</code> 
-        <code style="background-color: #1e1e1e; color: #fff;">WebRTC</code> 
-        <code style="background-color: #1e1e1e; color: #fff;">Firebase</code>
-      </p>
-      <hr style="border-color: #333;" />
-      <p align="right"><a href="#"><b>View Project →</b></a></p>
-    </td>
-    <!-- Card 4: E-Commerce Suite -->
-    <td width="50%" valign="top" style="border: 1px solid #333; border-radius: 8px; padding: 15px; background: #121212;">
-      <h3 style="color: #D2601A;">🛋️ 04. Furniture E-Commerce</h3>
-      <p>A complete dual-app storefront ecosystem including custom customer catalogs, payment gateways, and a back-office administration panel.</p>
-      <p>
-        <code style="background-color: #1e1e1e; color: #fff;">Flutter</code> 
-        <code style="background-color: #1e1e1e; color: #fff;">REST APIs</code> 
-        <code style="background-color: #1e1e1e; color: #fff;">Dashboard</code>
-      </p>
-      <hr style="border-color: #333;" />
-      <p align="right"><a href="#"><b>View Project →</b></a></p>
     </td>
   </tr>
 </table>
@@ -119,44 +70,123 @@
 
 ---
 
-<!-- SKILLS GRID / TECHNICAL STACK -->
-## 🛠️ Tech Ecosystem
+## 🛠️ Tech Stack & Ecosystem
 
-<table width="100%" border="0" cellspacing="5" cellpadding="5">
+A highly curated suite of technologies, architectures, and systems I employ to build production-grade software:
+
+<table>
   <tr>
-    <td align="center" style="background: #121212; border-radius: 6px; padding: 10px;">
+    <!-- Languages -->
+    <td width="25%" align="center" valign="top" style="background: #121212; border-radius: 6px; padding: 10px;">
       <b>Languages</b><br><br>
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /><br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     </td>
-    <td align="center" style="background: #121212; border-radius: 6px; padding: 10px;">
+    <!-- Frameworks & Core -->
+    <td width="25%" align="center" valign="top" style="background: #121212; border-radius: 6px; padding: 10px;">
       <b>Frameworks</b><br><br>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /><br><br>
+      <img src="https://img.shields.io/badge/Web_Apps-121212?style=for-the-badge&logo=google-chrome&logoColor=D2601A" />
     </td>
-    <td align="center" style="background: #121212; border-radius: 6px; padding: 10px;">
-      <b>Backend & Data</b><br><br>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
-      <img src="https://img.shields.io/badge/Hive_DB-D2601A?style=flat-square" />
+    <!-- Backend & Storage -->
+    <td width="25%" align="center" valign="top" style="background: #121212; border-radius: 6px; padding: 10px;">
+      <b>Backend / Database</b><br><br>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /><br><br>
+      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" /><br><br>
+      <img src="https://img.shields.io/badge/Hive_DB-D2601A?style=for-the-badge&logo=hive&logoColor=white" />
     </td>
-    <td align="center" style="background: #121212; border-radius: 6px; padding: 10px;">
-      <b>DevOps & Design</b><br><br>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+    <!-- Design & Tools -->
+    <td width="25%" align="center" valign="top" style="background: #121212; border-radius: 6px; padding: 10px;">
+      <b>Design & Tools</b><br><br>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /><br><br>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br><br>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
     </td>
   </tr>
 </table>
 
-<!-- INTERACTIVE COLLAPSED ACCORDION FOR ARCHITECTURE -->
+<!-- ARCHITECTURE AND STATE MANAGEMENT DRAWER -->
 <details>
-  <summary><b>📐 Click to expand State Management & Software Architecture Details</b></summary>
+  <summary><b>📐 Click to view Architecture & State Management Specs</b></summary>
   <br>
-  <ul>
-    <li><b>State Management Patterns:</b> Proficient in <code>BLoC (Event-to-State)</code> and <code>Provider (ChangeNotifier)</code> for strict separation of business logic and view.</li>
-    <li><b>Clean Architecture:</b> Dividing applications into distinct layers: <i>Data</i> (Repositories, Data Sources), <i>Domain</i> (Use Cases, Entities), and <i>Presentation</i> (UI Widgets, Controllers).</li>
-    <li><b>Local Caching Systems:</b> Structuring offline-first experiences using high-speed local Key-Value stores like <code>Hive</code> and relational <code>SQLite</code>.</li>
-  </ul>
+  <table width="100%">
+    <tr>
+      <td>⚙️ <b>State Management</b></td>
+      <td>BLoC (Event-to-State) · Provider · ChangeNotifiers</td>
+    </tr>
+    <tr>
+      <td>🧱 <b>Design Architecture</b></td>
+      <td>Clean Architecture · MVVM · MVC · Repository Pattern</td>
+    </tr>
+    <tr>
+      <td>⚡ <b>Performance Focus</b></td>
+      <td>60fps Rendering · UI/UX Micro-Interactions · App Size Optimization · Native Engine Bridging</td>
+    </tr>
+  </table>
 </details>
+
+<br id="projects">
+
+---
+
+## 📱 Featured Engineering Projects
+
+<table width="100%" border="0" cellpadding="10" cellspacing="0">
+  <!-- Row 1 -->
+  <tr>
+    <!-- Card 1 -->
+    <td width="50%" valign="top" style="border: 1px solid #333; border-radius: 8px; padding: 15px; background: #121212;">
+      <h3 style="color: #D2601A; margin-top: 0;">🤖 01. AI Resume Analyzer</h3>
+      <p>An intelligent ATS parser evaluating resume scores, highlighting skill gaps, and generating instant enhancements via AI integrations.</p>
+      <p>
+        <code style="background-color: #1e1e1e; color: #fff;">Flutter</code> 
+        <code style="background-color: #1e1e1e; color: #fff;">AI / NLP</code> 
+        <code style="background-color: #1e1e1e; color: #fff;">Firebase</code>
+      </p>
+      <hr style="border-color: #333;" />
+      <p align="right"><a href="#"><b>View Project →</b></a></p>
+    </td>
+    <!-- Card 2 -->
+    <td width="50%" valign="top" style="border: 1px solid #333; border-radius: 8px; padding: 15px; background: #121212;">
+      <h3 style="color: #D2601A; margin-top: 0;">🧠 02. ADHD Task Manager</h3>
+      <p>A cognitive-accessible gamified utility system offering custom task micro-timers and compulsion-based reward loops to drive focus.</p>
+      <p>
+        <code style="background-color: #1e1e1e; color: #fff;">Flutter</code> 
+        <code style="background-color: #1e1e1e; color: #fff;">Hive DB</code> 
+        <code style="background-color: #1e1e1e; color: #fff;">Notifications</code>
+      </p>
+      <hr style="border-color: #333;" />
+      <p align="right"><a href="#"><b>View Project →</b></a></p>
+    </td>
+  </tr>
+  <!-- Row 2 -->
+  <tr>
+    <!-- Card 3 -->
+    <td width="50%" valign="top" style="border: 1px solid #333; border-radius: 8px; padding: 15px; background: #121212;">
+      <h3 style="color: #D2601A; margin-top: 0;">🩺 03. Telehealth Booking</h3>
+      <p>On-demand telemedicine platform supporting seamless medical appointment bookings and live integrated WebRTC video consultations.</p>
+      <p>
+        <code style="background-color: #1e1e1e; color: #fff;">Flutter</code> 
+        <code style="background-color: #1e1e1e; color: #fff;">WebRTC</code> 
+        <code style="background-color: #1e1e1e; color: #fff;">Firebase</code>
+      </p>
+      <hr style="border-color: #333;" />
+      <p align="right"><a href="#"><b>View Project →</b></a></p>
+    </td>
+    <!-- Card 4 -->
+    <td width="50%" valign="top" style="border: 1px solid #333; border-radius: 8px; padding: 15px; background: #121212;">
+      <h3 style="color: #D2601A; margin-top: 0;">🛋️ 04. Furniture E-Commerce</h3>
+      <p>A complete dual-app storefront ecosystem featuring customized catalog displays, payment gateways, and backend management consoles.</p>
+      <p>
+        <code style="background-color: #1e1e1e; color: #fff;">Flutter</code> 
+        <code style="background-color: #1e1e1e; color: #fff;">REST APIs</code> 
+        <code style="background-color: #1e1e1e; color: #fff;">Admin Panel</code>
+      </p>
+      <hr style="border-color: #333;" />
+      <p align="right"><a href="#"><b>View Project →</b></a></p>
+    </td>
+  </tr>
+</table>
 
 <br id="stats">
 
@@ -185,25 +215,34 @@
 
 ---
 
-<!-- WEBSITE FOOTER -->
-## 💼 Work Inquiries & Collaboration
+<!-- WEBSITE FOOTER / CONTRACT SPECS -->
+## 💼 Availability & Contract Specifications
 
-<p align="center">
-  Whether you need a contract developer to boost your team or are looking to design a brand new application from scratch—let's make it happen.
-</p>
-
-<table width="100%" border="0" cellpadding="8" cellspacing="0" style="text-align: center;">
-  <tr>
-    <td width="33%" style="background: #121212; border-radius: 6px;">
-      <b>Response Time</b><br>⏱️ &lt; 24 Hours
-    </td>
-    <td width="34%" style="background: #121212; border-radius: 6px;">
-      <b>Direct Email</b><br>✉️ <a href="mailto:zunairamughal.dev@gmail.com">zunairamughal.dev@gmail.com</a>
-    </td>
-    <td width="33%" style="background: #121212; border-radius: 6px;">
-      <b>Consulting</b><br>☕ Remote Worldwide
-    </td>
-  </tr>
+<table width="100%">
+  <thead>
+    <tr style="background-color: #121212;">
+      <th align="left" width="30%">Service Attribute</th>
+      <th align="left" width="70%">My Standards & Deliverables</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🤝 <b>Engagement</b></td>
+      <td>Freelance • Remote Worldwide Contracts • Full-time Integration</td>
+    </tr>
+    <tr>
+      <td>⏱️ <b>Response SLA</b></td>
+      <td>Guaranteed within 24 hours (Generally immediate)</td>
+    </tr>
+    <tr>
+      <td>🛡️ <b>Code Standards</b></td>
+      <td>Clean, documented, robust testing workflows, structured Git branches</td>
+    </tr>
+    <tr>
+      <td>📮 <b>Direct Channel</b></td>
+      <td><a href="mailto:zunairamughal.dev@gmail.com"><b>zunairamughal.dev@gmail.com</b></a></td>
+    </tr>
+  </tbody>
 </table>
 
 <br>
