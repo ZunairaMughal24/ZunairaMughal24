@@ -107,66 +107,98 @@
 
 ---
 
-## 🛠️ Comprehensive Tech Stack
+## 🛠️ Tech Stack & Ecosystem
 
-A look at my technical expertise across languages, state managers, persistence layers, and DevOps tools:
+A highly optimized layout of my specialized skills, design philosophies, and architectural toolkits:
 
-<table>
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
   <tr>
-    <!-- Languages & Core Frameworks -->
-    <td width="25%" align="center" valign="top" style="background: #121212; border-radius: 6px; padding: 10px;">
-      <b>Languages</b><br><br>
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" /><br><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br><br>
+    <!-- COLUMN 1: LANGUAGES & ENGINE -->
+    <td width="33%" valign="top" style="background: #121212; border-radius: 8px; padding: 15px; border: 1px solid #222;">
+      <h4 style="color: #D2601A; margin-top: 0; display: flex; align-items: center; gap: 8px;">
+        💻 Languages & Engine
+      </h4>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <ul style="margin: 10px 0 0 15px; padding: 0; font-size: 13px; color: #bbb;">
+        <li>Object-Oriented Programming</li>
+        <li>Asynchronous Dart / Isolates</li>
+        <li>Native Method Channels</li>
+      </ul>
     </td>
-    <!-- Frameworks & Engine -->
-    <td width="25%" align="center" valign="top" style="background: #121212; border-radius: 6px; padding: 10px;">
-      <b>Frameworks</b><br><br>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /><br><br>
-      <img src="https://img.shields.io/badge/GetX-121212?style=flat-square&logo=flutter&logoColor=D2601A" /><br><br>
-      <img src="https://img.shields.io/badge/Riverpod-121212?style=flat-square&logo=flutter&logoColor=D2601A" />
+    <!-- COLUMN 2: ARCHITECTURE & STATE -->
+    <td width="33%" valign="top" style="background: #121212; border-radius: 8px; padding: 15px; border: 1px solid #222;">
+      <h4 style="color: #D2601A; margin-top: 0; display: flex; align-items: center; gap: 8px;">
+        📐 Architecture & State
+      </h4>
+      <img src="https://img.shields.io/badge/BLoC-121212?style=flat-square&logo=bloc&logoColor=D2601A" />
+      <img src="https://img.shields.io/badge/Riverpod-121212?style=flat-square&logo=riverpod&logoColor=0175C2" />
+      <img src="https://img.shields.io/badge/Provider-121212?style=flat-square&logo=flutter&logoColor=D2601A" />
+      <ul style="margin: 10px 0 0 15px; padding: 0; font-size: 13px; color: #bbb;">
+        <li>Clean Architecture (Feature-First)</li>
+        <li>MVVM / MVC / Repository Patterns</li>
+        <li>Immutable States (Freezed / Equatable)</li>
+      </ul>
     </td>
-    <!-- Databases & Systems -->
-    <td width="25%" align="center" valign="top" style="background: #121212; border-radius: 6px; padding: 10px;">
-      <b>Backend & Data</b><br><br>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /><br><br>
-      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" /><br><br>
-      <img src="https://img.shields.io/badge/Hive_DB-D2601A?style=flat-square" />
+    <!-- COLUMN 3: BACKEND & DATABASE -->
+    <td width="33%" valign="top" style="background: #121212; border-radius: 8px; padding: 15px; border: 1px solid #222;">
+      <h4 style="color: #D2601A; margin-top: 0; display: flex; align-items: center; gap: 8px;">
+        ☁️ Cloud & Caching
+      </h4>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/Hive_DB-D2601A?style=flat-square&logo=hive&logoColor=white" />
+      <ul style="margin: 10px 0 0 15px; padding: 0; font-size: 13px; color: #bbb;">
+        <li>Offline-First Sync Engines</li>
+        <li>Secure SQL/NoSQL Caching</li>
+        <li>RESTful API Systems / Interceptors</li>
+      </ul>
     </td>
-    <!-- Tooling & Architecture -->
-    <td width="25%" align="center" valign="top" style="background: #121212; border-radius: 6px; padding: 10px;">
-      <b>Tools & Dev</b><br><br>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><br><br>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" /><br><br>
+  </tr>
+  <tr>
+    <!-- COLUMN 4: DESIGN & ANIMATIONS -->
+    <td width="33%" valign="top" style="background: #121212; border-radius: 8px; padding: 15px; border: 1px solid #222;">
+      <h4 style="color: #D2601A; margin-top: 0; display: flex; align-items: center; gap: 8px;">
+        🎨 UI/UX & Rendering
+      </h4>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Material_3-7952B3?style=flat-square&logo=material-design&logoColor=white" />
+      <ul style="margin: 10px 0 0 15px; padding: 0; font-size: 13px; color: #bbb;">
+        <li>Dynamic Responsive Layouts</li>
+        <li>Glassmorphic & Custom UI Builds</li>
+        <li>Custom Shaders & Canvas Painting</li>
+      </ul>
+    </td>
+    <!-- COLUMN 5: INTEGRATIONS & SMART AI -->
+    <td width="33%" valign="top" style="background: #121212; border-radius: 8px; padding: 15px; border: 1px solid #222;">
+      <h4 style="color: #D2601A; margin-top: 0; display: flex; align-items: center; gap: 8px;">
+        🧠 Advanced Integrations
+      </h4>
+      <img src="https://img.shields.io/badge/Generative_AI-121212?style=flat-square&logo=google-gemini&logoColor=D2601A" />
+      <img src="https://img.shields.io/badge/ML_Kit-34A853?style=flat-square&logo=google&logoColor=white" />
+      <ul style="margin: 10px 0 0 15px; padding: 0; font-size: 13px; color: #bbb;">
+        <li>Google Generative AI Integration</li>
+        <li>Device-Side AI (Google ML Kit)</li>
+        <li>WebRTC Real-Time Calling Engines</li>
+      </ul>
+    </td>
+    <!-- COLUMN 6: DEVOPS & SYSTEMS -->
+    <td width="33%" valign="top" style="background: #121212; border-radius: 8px; padding: 15px; border: 1px solid #222;">
+      <h4 style="color: #D2601A; margin-top: 0; display: flex; align-items: center; gap: 8px;">
+        🛠️ DevOps & Tooling
+      </h4>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/Mason_CLI-121212?style=flat-square&logo=dart&logoColor=D2601A" />
+      <ul style="margin: 10px 0 0 15px; padding: 0; font-size: 13px; color: #bbb;">
+        <li>Automated Mason Custom Bricks</li>
+        <li>Agile / Scrum Pipelines</li>
+        <li>Postman API Optimization</li>
+      </ul>
     </td>
   </tr>
 </table>
-
-<!-- ARCHITECTURAL ACCORDION DETAILED DRAW -->
-<details>
-  <summary><b>📐 Technical Patterns & Architecture Breakdown (Click to expand)</b></summary>
-  <br>
-  <table width="100%">
-    <tr>
-      <td width="30%">⚙️ <b>State Management</b></td>
-      <td>BLoC · Riverpod · GetX · Provider · Freezed & Equatable (Immutable State)</td>
-    </tr>
-    <tr>
-      <td>🧱 <b>Design & Systems</b></td>
-      <td>Clean Architecture · Feature-First Design · MVVM · MVC · Repository Pattern</td>
-    </tr>
-    <tr>
-      <td>🛰️ <b>Integrations</b></td>
-      <td>RESTful APIs (with custom interceptors) · JSON Parsers · Firebase Cloud Functions · On-Device AI Tools</td>
-    </tr>
-    <tr>
-      <td>⚡ <b>Workflow Tools</b></td>
-      <td>Mason CLI (Custom Templating) · Cloudinary CDN · GoRouter · Local Push Systems</td>
-    </tr>
-  </table>
-</details>
 
 <br id="projects">
 
