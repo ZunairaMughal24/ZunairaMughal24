@@ -1,29 +1,24 @@
-# <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF8C00&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Zunaira+Mughal+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Flutter+Mobile+Developer+%F0%9F%93%B1;iOS+%2B+Android+%2B+Web+Engineer+%F0%9F%92%BB" alt="Typing SVG" /></a></p>
+# <p align="center">⚡ Crafting High-Performance Mobile & Web Experiences ⚡</p>
 
-<p align="center">
-  <b>🔥 Flutter Mobile (iOS + Android) & Web App Developer 🔥</b>
-</p>
-
-<p align="center">
-  Remote Worldwide · Open to contracts, freelance & full-time roles
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Open_to_Work-FF8C00?style=for-the-badge&logo=github&logoColor=121212" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FFD700&center=true&vCenter=true&width=800&lines=Building+production-grade+Flutter+experiences;Engineering+clean%2C+scalable+mobile+architecture;Turning+complex+problems+into+seamless+apps" alt="Typing SVG" /></a>
-</p>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Handshake.png" width="35" /> Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/zunairamughal/"><img src="https://img.shields.io/badge/LinkedIn-Connect_Here-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:zunairamughal.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Inquire_Now-D44638?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<table align="center">
+  <tr>
+    <td width="55%" align="left" valign="middle">
+      <h3>👋 Hi, I'm Zunaira Mughal</h3>
+      <p><b>Flutter Mobile & Web Engineer</b> specializing in clean, production-grade architecture (BLoC, Clean Architecture) and seamless user experiences.</p>
+      <p>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF8C00&width=400&lines=Flutter+Developer+%F0%9F%93%B1;iOS+%2B+Android+%2B+Web+%F0%9F%92%BB;Turning+ideas+into+real+software;Building+scalable+architecture" alt="Typing SVG" /></a>
+      </p>
+      <p align="left">
+        <a href="https://www.linkedin.com/in/zunairamughal/"><img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+        <a href="mailto:zunairamughal.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Inquire_Now-D44638?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+      </p>
+    </td>
+    <td width="45%" align="center" valign="middle">
+      <!-- High-quality professional animated illustration -->
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHIzbWdxZzVhbWtlYzE2bWF5dms1amxtOGptem12azBmaHplbDV3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1TVr9t7gSUOMC2V/giphy.gif" width="280px" alt="Developer Illustration" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -68,7 +63,6 @@ An AI-powered resume analysis tool that scores resumes against ATS (Applicant Tr
   <img src="https://img.shields.io/badge/AI%2FNLP%20Integration-FF5E62?style=flat-square" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 </p>
-<!-- ![Resume Analyzer Screenshot](link-to-screenshot.png) -->
 
 ### 2. Expense Tracker
 A personal finance app for tracking income and expenses, with category breakdowns and visual spending insights.
@@ -78,7 +72,6 @@ A personal finance app for tracking income and expenses, with category breakdown
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/BLoC-FF9900?style=flat-square" />
 </p>
-<!-- ![Expense Tracker Screenshot](link-to-screenshot.png) -->
 
 ### 3. Doctor Appointment App
 A healthcare booking platform where users browse doctors and conditions, then schedule appointments either in-person or online via integrated video/voice calls.
@@ -88,7 +81,6 @@ A healthcare booking platform where users browse doctors and conditions, then sc
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Real--time%20Communication-00FF87?style=flat-square" />
 </p>
-<!-- ![Doctor Appointment Screenshot](link-to-screenshot.png) -->
 
 ### 4. Furniture E-Commerce App
 A full-featured shopping app with browsing, cart, and favorites for customers, plus a complete admin panel for managing product listings, inventory, and edits.
@@ -99,7 +91,6 @@ A full-featured shopping app with browsing, cart, and favorites for customers, p
   <img src="https://img.shields.io/badge/REST%20APIs-FFB900?style=flat-square" />
   <img src="https://img.shields.io/badge/Admin%20Dashboard-FF5E62?style=flat-square" />
 </p>
-<!-- ![Furniture App Screenshot](link-to-screenshot.png) -->
 
 ### 5. ADHD Task Manager
 A task management app designed specifically for users with ADHD — featuring compulsion-based rewards and customizable timers to support focus and task completion.
@@ -132,11 +123,15 @@ A task management app designed specifically for users with ADHD — featuring co
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35" /> GitHub Stats
-![Zunaira's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZunairaMughal24&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF5E62&icon_color=FF9900&text_color=FFFFFF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZunairaMughal24&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF9900&text_color=FFFFFF)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZunairaMughal24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZunairaMughal24&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" width="48%" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ZunairaMughal24&hide_border=true&background=0D1117&ring=FF5E62&fire=FF9900&currStreakLabel=FF9900&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZunairaMughal24&theme=tokyonight&hide_border=true" width="97%" />
+</p>
 
 ---
 
