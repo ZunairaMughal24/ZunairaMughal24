@@ -117,7 +117,7 @@ A task management app designed specifically for users with ADHD — featuring co
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Hive](https://img.shields.io/badge/Hive-D2601A?style=for-the-badge&logoColor=white)
-![BLoC](https://img.shields.io/badge/BLoC-D2601A?style=for-the-badge&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC-D2601A?style=for-the-badge&logo=white)
 ![Provider](https://img.shields.io/badge/Provider-D2601A?style=for-the-badge&logo=provider&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-D2601A?style=for-the-badge&logoColor=white)
 ![MVC](https://img.shields.io/badge/MVC-D2601A?style=for-the-badge&logoColor=white)
@@ -138,12 +138,12 @@ A task management app designed specifically for users with ADHD — featuring co
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ZunairaMughal24&hide_border=true&theme=radical" width="97%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ZunairaMughal24&hide_border=true&theme=solarized-light" width="97%" alt="GitHub Streak" />
 </p>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="35" /> Professional Inquiries
+## Professional Inquiries
 
 | Category | Details |
 |---|---|
