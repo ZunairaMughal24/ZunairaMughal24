@@ -1,7 +1,7 @@
 # <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF8C00&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Zunaira+Mughal+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Flutter+Mobile+Developer+%F0%9F%93%B1;iOS+%2B+Android+%2B+Web+Engineer+%F0%9F%92%BB" alt="Typing SVG" /></a></p>
 
 <p align="center">
-  <b>🔥 Flutter Mobile (iOS + Android) & Web App Developer 🔥</b>
+  <b>⚡ Flutter Mobile (iOS + Android) & Web App Developer ⚡</b>
 </p>
 
 <p align="center">
@@ -60,7 +60,7 @@
 ## Featured Projects
 
 ### 1. AI Resume Analyzer
-An AI-powered resume analysis tool that scores resumes against ATS (Applicant Tracking System) criteria and provides actionable improvement suggestions. Includes both AI-assisted resume editing and a from-scratch resume builder[cite: 2].
+An AI-powered resume analysis tool that scores resumes against ATS (Applicant Tracking System) criteria and provides actionable improvement suggestions. Includes both AI-assisted resume editing and a from-scratch resume builder.
 
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
@@ -80,7 +80,7 @@ A personal finance app for tracking income and expenses, with category breakdown
 <!-- ![Expense Tracker Screenshot](link-to-screenshot.png) -->
 
 ### 3. Doctor Appointment App
-A healthcare booking platform where users browse doctors and conditions, then schedule appointments either in-person or online via integrated video/voice calls[cite: 2].
+A healthcare booking platform where users browse doctors and conditions, then schedule appointments either in-person or online via integrated video/voice calls.
 
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
@@ -90,7 +90,7 @@ A healthcare booking platform where users browse doctors and conditions, then sc
 <!-- ![Doctor Appointment Screenshot](link-to-screenshot.png) -->
 
 ### 4. Furniture E-Commerce App
-A full-featured shopping app with browsing, cart, and favorites for customers, plus a complete admin panel for managing product listings, inventory, and edits[cite: 2].
+A full-featured shopping app with browsing, cart, and favorites for customers, plus a complete admin panel for managing product listings, inventory, and edits.
 
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
@@ -101,7 +101,7 @@ A full-featured shopping app with browsing, cart, and favorites for customers, p
 <!-- ![Furniture App Screenshot](link-to-screenshot.png) -->
 
 ### 5. ADHD Task Manager
-A task management app designed specifically for users with ADHD — featuring compulsion-based rewards and customizable timers to support focus and task completion[cite: 2].
+A task management app designed specifically for users with ADHD — featuring compulsion-based rewards and customizable timers to support focus and task completion.
 
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
@@ -118,7 +118,7 @@ A task management app designed specifically for users with ADHD — featuring co
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Hive](https://img.shields.io/badge/Hive-D2601A?style=for-the-badge&logoColor=white)
 ![BLoC](https://img.shields.io/badge/BLoC-D2601A?style=for-the-badge&logoColor=white)
-![Provider](https://img.shields.io/badge/Provider-D2601A?style=for-the-badge&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-D2601A?style=for-the-badge&logo=provider&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-D2601A?style=for-the-badge&logoColor=white)
 ![MVC](https://img.shields.io/badge/MVC-D2601A?style=for-the-badge&logoColor=white)
 ![MVVM](https://img.shields.io/badge/MVVM-D2601A?style=for-the-badge&logoColor=white)
@@ -131,11 +131,15 @@ A task management app designed specifically for users with ADHD — featuring co
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35" /> GitHub Stats
-![Zunaira's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZunairaMughal24&show_icons=true&hide_border=true&theme=solarized-light)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZunairaMughal24&layout=compact&hide_border=true&theme=solarized-light)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZunairaMughal24&show_icons=true&hide_border=true&theme=solarized-light" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZunairaMughal24&layout=compact&hide_border=true&theme=solarized-light" width="48%" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ZunairaMughal24&hide_border=true&theme=solarized-light)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ZunairaMughal24&hide_border=true&theme=radical" width="97%" />
+</p>
 
 ---
 
