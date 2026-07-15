@@ -72,7 +72,6 @@ An AI-powered resume analysis tool that scores resumes against ATS (Applicant Tr
 A personal finance app for tracking income and expenses, with category breakdowns and visual spending insights.
 
 <p>
-  
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/BLoC-FF9900?style=flat-square" />
@@ -82,34 +81,28 @@ A personal finance app for tracking income and expenses, with category breakdown
 A healthcare booking platform where users browse doctors and conditions, then schedule appointments either in-person or online via integrated video/voice calls.
 
 <p>
-  
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Real--time%20Communication-00FF87?style=flat-square" />
-  
 </p>
 
 ### 4. Furniture E-Commerce App
 A full-featured shopping app with browsing, cart, and favorites for customers, plus a complete admin panel for managing product listings, inventory, and edits.
 
 <p>
-  
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/REST%20APIs-FFB900?style=flat-square" />
   <img src="https://img.shields.io/badge/Admin%20Dashboard-FF5E62?style=flat-square" />
-  
 </p>
 
 ### 5. ADHD Task Manager
 A task management app designed specifically for users with ADHD — featuring compulsion-based rewards and customizable timers to support focus and task completion.
 
 <p>
-  
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Local%20Notifications-FF5E62?style=flat-square" />
   <img src="https://img.shields.io/badge/State%20Management-FF9900?style=flat-square" />
-  
 </p>
 
 ---
@@ -123,7 +116,7 @@ A task management app designed specifically for users with ADHD — featuring co
 ![BLoC](https://img.shields.io/badge/BLoC-D2601A?style=for-the-badge&logo=white)
 ![Provider](https://img.shields.io/badge/Provider-D2601A?style=for-the-badge&logo=provider&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-D2601A?style=for-the-badge&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC-D2601A?style=for-the-badge&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-D2601A?style=for-the-badge&logo=white)
 ![MVVM](https://img.shields.io/badge/MVVM-D2601A?style=for-the-badge&logo=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -141,7 +134,7 @@ A task management app designed specifically for users with ADHD — featuring co
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ZunairaMughal24&hide_border=true&background=0F1419&ring=FF8C00&fire=FFD700&currStreakNum=FF8C00&sideNums=FFD700&sideLabels=A0A0A0&dates=707070" width="97%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ZunairaMughal24&hide_border=true&background=0B0E14&ring=FF8C00&fire=FFD700&currStreakNum=FF8C00&sideNums=FFD700&currStreakLabel=FF8C00&sideLabels=A0A0A0&dates=808080" width="97%" alt="GitHub Streak" />
 </p>
 
 ---
