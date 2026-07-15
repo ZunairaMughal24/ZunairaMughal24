@@ -20,7 +20,7 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/zunairamughal/"><img src="https://img.shields.io/badge/LinkedIn-Connect_Here-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/zunaira-mughal-80637b276/"><img src="https://img.shields.io/badge/LinkedIn-Connect_Here-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:zunairamughal.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Inquire_Now-D44638?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
