@@ -88,6 +88,7 @@ A healthcare booking platform where users browse doctors and conditions, then sc
   <img src="https://img.shields.io/badge/Real--time%20Communication-00FF87?style=flat-square" />
   
 </p>
+
 ### 4. Furniture E-Commerce App
 A full-featured shopping app with browsing, cart, and favorites for customers, plus a complete admin panel for managing product listings, inventory, and edits.
 
