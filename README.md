@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FFD700&center=true&vCenter=true&width=800&lines=%E2%9C%A8+Building+production-grade+Flutter+experiences+%F0%9F%9A%80;%F0%9F%9B%A0%EF%B8%8F+Engineering+clean%2C+scalable+mobile+architecture+%F0%9F%92%BB;%F0%9F%94%8C+Turning+complex+problems+into+seamless+apps+%F0%9F%8E%AF" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FFD700&center=true&vCenter=true&width=800&lines=%F0%9F%8C%9F+Building+production-grade+Flutter+experiences;%F0%9F%9A%80+Engineering+clean%2C+scalable+mobile+architecture;%F0%9F%8E%AF+Turning+complex+problems+into+seamless+apps" alt="Typing SVG" /></a>
 </p>
 
 ---
@@ -143,7 +143,7 @@ A task management app designed specifically for users with ADHD — featuring co
 
 ---
 
-## Professional Inquiries
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="35" /> Professional Inquiries
 
 | Category | Details |
 |---|---|
