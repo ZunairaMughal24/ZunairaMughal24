@@ -98,4 +98,54 @@ A task management app designed specifically for users with ADHD — featuring co
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Local%20Notifications-FF5E62?style=flat-square" />
-  <img src="
+  <img src="https://img.shields.io/badge/State%20Management-FF9900?style=flat-square" />
+</p>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="35" /> Tech Stack & Tools
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-D2601A?style=for-the-badge&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC-D2601A?style=for-the-badge&logo=white)
+![Provider](https://img.shields.io/badge/Provider-D2601A?style=for-the-badge&logo=provider&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-D2601A?style=for-the-badge&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-D2601A?style=for-the-badge&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-D2601A?style=for-the-badge&logo=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35" /> GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-git-master-rstacruz.vercel.app/api?username=ZunairaMughal24&show_icons=true&hide_border=true&theme=gotham" width="48%" alt="Zunaira's GitHub Stats" />
+  <img src="https://github-readme-stats-git-master-rstacruz.vercel.app/api/top-langs/?username=ZunairaMughal24&layout=compact&hide_border=true&theme=gotham" width="48%" alt="Zunaira's Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ZunairaMughal24&hide_border=true&background=0F1419&ring=FF8C00&fire=FFD700&currStreakNum=FF8C00&sideNums=FFD700&sideLabels=A0A0A0&dates=707070" width="97%" alt="GitHub Streak" />
+</p>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="35" /> Professional Inquiries
+
+| Category | Details |
+|---|---|
+| **💼 Availability** | <b style="color: #FF9900;">Freelance · Remote Contracts · Full-time</b> |
+| **🌍 Clients** | Open worldwide |
+| **⏱️ Response Time** | Within 24 hours |
+| **✉️ Email** | [zunairamughal.dev@gmail.com](mailto:zunairamughal.dev@gmail.com) |
+
+---
+
+<p align="center">
+  <i>✨ Turning ideas into actual software. No fluff. ✨</i>
+</p>
