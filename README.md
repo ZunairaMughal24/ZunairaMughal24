@@ -1,67 +1,59 @@
-# Hi, I'm Zunaira Mughal
-**Flutter Mobile (iOS + Android) & Web App Developer**
-Remote · Open to contracts, freelance & full-time roles
+# <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=D2601A&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Zunaira+Mughal;Flutter+Mobile+Developer;iOS+%2B+Android+%2B+Web+Engineer" alt="Typing SVG" /></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=D2601A&center=true&vCenter=true&width=700&lines=Turning+complex+problems+into+seamless+apps;Building+production-grade+Flutter+experiences;Engineering+clean%2C+scalable+mobile+architecture)](https://git.io/typing-svg)
+<p align="center">
+  <b>Flutter Mobile (iOS + Android) & Web App Developer</b>
+</p>
+
+<p align="center">
+  Remote · Open to contracts, freelance & full-time roles
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open_to_Work-green?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Turning+complex+problems+into+seamless+apps;Building+production-grade+Flutter+experiences;Engineering+clean%2C+scalable+mobile+architecture" alt="Typing SVG" />
+</p>
 
 ---
 
 ### About Me
 
 <table>
-  <tr>
-    <td width="25%">💻 <b>Role</b></td>
-    <td>Flutter Developer</td>
-  </tr>
-  <tr>
-    <td>📈 <b>Experience</b></td>
-    <td>3+ years</td>
-  </tr>
-  <tr>
-    <td>📍 <b>Location</b></td>
-    <td>Pakistan 🇵🇰 · Remote Worldwide</td>
-  </tr>
-  <tr>
-    <td>🎯 <b>Focus</b></td>
-    <td>Polished UI/UX + Firebase/API integration</td>
-  </tr>
-  <tr>
-    <td>🟢 <b>Status</b></td>
-    <td>Open to Work</td>
-  </tr>
-  <tr>
-    <td>🚀 <b>Expertise</b></td>
-    <td>AI-powered tools · Healthcare booking platforms · E-commerce with admin dashboards · Accessibility-focused apps</td>
-  </tr>
+  <tr>
+    <td width="25%">💻 <b>Role</b></td>
+    <td>Flutter Developer</td>
+  </tr>
+  <tr>
+    <td>📈 <b>Experience</b></td>
+    <td>3+ years</td>
+  </tr>
+  <tr>
+    <td>📍 <b>Location</b></td>
+    <td>Pakistan 🇵🇰 · Remote Worldwide</td>
+  </tr>
+  <tr>
+    <td>🎯 <b>Focus</b></td>
+    <td>Polished UI/UX + Firebase/API integration</td>
+  </tr>
+  <tr>
+    <td>🟢 <b>Status</b></td>
+    <td>Open to Work</td>
+  </tr>
+  <tr>
+    <td>🚀 <b>Expertise</b></td>
+    <td>AI-powered tools · Healthcare booking platforms · E-commerce with admin dashboards · Accessibility-focused apps</td>
+  </tr>
 </table>
 
 ---
 
-## 🚀 Featured Projects
-
-### AI Resume Analyzer
-An AI-powered resume analysis tool that scores resumes against ATS (Applicant Tracking System) criteria and provides actionable improvement suggestions. Includes both AI-assisted resume editing and a from-scratch resume builder.
-**Tech:** Flutter · AI/NLP Integration · Firebase
-<!-- ![Resume Analyzer Screenshot](link-to-screenshot.png) -->
-
-### Expense Tracker
-A personal finance app for tracking income and expenses, with category breakdowns and visual spending insights.
-**Tech:** Flutter · Firebase · BLoC
-<!-- ![Expense Tracker Screenshot](link-to-screenshot.png) -->
-
-### Doctor Appointment App
-A healthcare booking platform where users browse doctors and conditions, then schedule appointments either in-person or online via integrated video/voice calls.
-**Tech:** Flutter · Firebase · Real-time Communication (Video/Voice)
-<!-- ![Doctor Appointment Screenshot](link-to-screenshot.png) -->
-
-### Furniture E-Commerce App
-A full-featured shopping app with browsing, cart, and favorites for customers, plus a complete admin panel for managing product listings, inventory, and edits.
-**Tech:** Flutter · Firebase · REST APIs · Admin Dashboard
-<!-- ![Furniture App Screenshot](link-to-screenshot.png) -->
-
-### ADHD Task Manager
-A task management app designed specifically for users with ADHD — featuring compulsion-based rewards and customizable timers to support focus and task completion.
-**Tech:** Flutter · Local Notifications · State Management
+## 🌐 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/zunairamughal/"><img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=D2601A" /></a>
+  <a href="mailto:zunairamughal.dev@gmail.com"><img src="https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=D2601A" /></a>
+</p>
 
 ---
 
@@ -76,9 +68,36 @@ A task management app designed specifically for users with ADHD — featuring co
 
 ---
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=D2601A)](https://www.linkedin.com/in/zunairamughal/)
-[![Email](https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=D2601A)](mailto:zunairamughal.dev@gmail.com)
+## 🚀 Featured Projects
+
+### AI Resume Analyzer
+An AI-powered resume analysis tool that scores resumes against ATS (Applicant Tracking System) criteria and provides actionable improvement suggestions. Includes both AI-assisted resume editing and a from-scratch resume builder.
+
+**🔧 Tech Stack:** `Flutter` · `AI/NLP Integration` · `Firebase`
+<!-- ![Resume Analyzer Screenshot](link-to-screenshot.png) -->
+
+### Expense Tracker
+A personal finance app for tracking income and expenses, with category breakdowns and visual spending insights.
+
+**🔧 Tech Stack:** `Flutter` · `Firebase` · `BLoC`
+<!-- ![Expense Tracker Screenshot](link-to-screenshot.png) -->
+
+### Doctor Appointment App
+A healthcare booking platform where users browse doctors and conditions, then schedule appointments either in-person or online via integrated video/voice calls.
+
+**🔧 Tech Stack:** `Flutter` · `Firebase` · `Real-time Communication (Video/Voice)`
+<!-- ![Doctor Appointment Screenshot](link-to-screenshot.png) -->
+
+### Furniture E-Commerce App
+A full-featured shopping app with browsing, cart, and favorites for customers, plus a complete admin panel for managing product listings, inventory, and edits.
+
+**🔧 Tech Stack:** `Flutter` · `Firebase` · `REST APIs` · `Admin Dashboard`
+<!-- ![Furniture App Screenshot](link-to-screenshot.png) -->
+
+### ADHD Task Manager
+A task management app designed specifically for users with ADHD — featuring compulsion-based rewards and customizable timers to support focus and task completion.
+
+**🔧 Tech Stack:** `Flutter` · `Local Notifications` · `State Management`
 
 ---
 
