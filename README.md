@@ -129,12 +129,12 @@ A task management app designed specifically for users with ADHD — featuring co
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35" /> GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-rstacruz.vercel.app/api?username=ZunairaMughal24&show_icons=true&hide_border=true&bg_color=00000000&title_color=FF8C00&text_color=FFFFFF&icon_color=FFD700" width="48%" alt="Zunaira's GitHub Stats" />
+  <img src="https://github-readme-stats-git-master-rstacruz.vercel.app/api?username=ZunairaMughal24&show_icons=true&hide_border=true&bg_color=00000000&title_color=FF8C00&text_color=FFFFFF&icon_color=FFD700&count_private=true" width="48%" alt="Zunaira's GitHub Stats" />
   <img src="https://github-readme-stats-git-master-rstacruz.vercel.app/api/top-langs/?username=ZunairaMughal24&layout=compact&hide_border=true&bg_color=00000000&title_color=FF8C00&text_color=FFFFFF" width="48%" alt="Zunaira's Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ZunairaMughal24&hide_border=true&background=0B0E14&ring=FF8C00&fire=FFD700&currStreakNum=FF8C00&sideNums=FFFFFF&currStreakLabel=FF8C00&sideLabels=FFFFFF&dates=FFFFFF" width="600" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ZunairaMughal24&hide_border=true&background=0B0E14&ring=FF8C00&fire=FFD700&currStreakNum=FFD700&sideNums=FFD700&currStreakLabel=FF8C00&sideLabels=FFFFFF&dates=FFFFFF" width="600" alt="GitHub Streak" />
 </p>
 
 ---
