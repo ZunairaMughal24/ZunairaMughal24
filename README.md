@@ -119,7 +119,7 @@ A task management app designed specifically for users with ADHD — featuring co
 ![Hive](https://img.shields.io/badge/Hive-D2601A?style=for-the-badge&logoColor=white)
 ![BLoC](https://img.shields.io/badge/BLoC-D2601A?style=for-the-badge&logoColor=white)
 ![Provider](https://img.shields.io/badge/Provider-D2601A?style=for-the-badge&logo=provider&logoColor=white)
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-D2601A?style=for-the-badge&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-D2601A?style=for-the-badge&logo=white)
 ![MVC](https://img.shields.io/badge/MVC-D2601A?style=for-the-badge&logoColor=white)
 ![MVVM](https://img.shields.io/badge/MVVM-D2601A?style=for-the-badge&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -133,12 +133,12 @@ A task management app designed specifically for users with ADHD — featuring co
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35" /> GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZunairaMughal24&show_icons=true&hide_border=true&theme=solarized-light" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZunairaMughal24&layout=compact&hide_border=true&theme=solarized-light" width="48%" />
+  <img src="https://github-readme-stats-git-master-rstacruz.vercel.app/api?username=ZunairaMughal24&show_icons=true&hide_border=true&theme=solarized-light" width="48%" alt="Zunaira's GitHub Stats" />
+  <img src="https://github-readme-stats-git-master-rstacruz.vercel.app/api/top-langs/?username=ZunairaMughal24&layout=compact&hide_border=true&theme=solarized-light" width="48%" alt="Zunaira's Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ZunairaMughal24&hide_border=true&theme=radical" width="97%" />
+  <img src="https://streak-stats.demolab.com/?user=ZunairaMughal24&hide_border=true&theme=radical" width="97%" alt="GitHub Streak" />
 </p>
 
 ---
