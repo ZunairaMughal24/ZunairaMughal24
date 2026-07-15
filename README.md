@@ -1,49 +1,49 @@
-# <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=D2601A&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Zunaira+Mughal;Flutter+Mobile+Developer;iOS+%2B+Android+%2B+Web+Engineer" alt="Typing SVG" /></p>
+# <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F2FE&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Zunaira+Mughal+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Flutter+Mobile+Developer+%E2%9A%A1%EF%B8%8F;iOS+%2B+Android+%2B+Web+Engineer+%F0%9F%93%B1" alt="Typing SVG" /></a></p>
 
 <p align="center">
-  <b>Flutter Mobile (iOS + Android) & Web App Developer</b>
+  <b>🌟 Flutter Mobile (iOS + Android) & Web App Developer 🌟</b>
 </p>
 
 <p align="center">
-  Remote · Open to contracts, freelance & full-time roles
+  Remote Worldwide 🌍 · Open to contracts, freelance & full-time roles
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Open_to_Work-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Open_to_Work-00F2FE?style=for-the-badge&logo=github&logoColor=121212" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Turning+complex+problems+into+seamless+apps;Building+production-grade+Flutter+experiences;Engineering+clean%2C+scalable+mobile+architecture" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FF8C00&center=true&vCenter=true&width=800&lines=%E2%9C%A8+Turning+complex+problems+into+seamless+apps;%F0%9F%9A%80+Building+production-grade+Flutter+experiences;%F0%9F%9B%A0%EF%B8%8F+Engineering+clean%2C+scalable+mobile+architecture" alt="Typing SVG" /></a>
 </p>
 
 ---
 
-### About Me
+### 👤 About Me
 
 <table>
   <tr>
     <td width="25%">💻 <b>Role</b></td>
-    <td>Flutter Developer</td>
+    <td><b>Flutter Developer</b></td>
   </tr>
   <tr>
     <td>📈 <b>Experience</b></td>
-    <td>3+ years</td>
+    <td><b>3+ Years</b></td>
   </tr>
   <tr>
     <td>📍 <b>Location</b></td>
-    <td>Pakistan 🇵🇰 · Remote Worldwide</td>
+    <td><b>Pakistan 🇵🇰 · Remote Worldwide</b></td>
   </tr>
   <tr>
     <td>🎯 <b>Focus</b></td>
-    <td>Polished UI/UX + Firebase/API integration</td>
+    <td><b>Polished UI/UX + Firebase/API Integration</b></td>
   </tr>
   <tr>
     <td>🟢 <b>Status</b></td>
-    <td>Open to Work</td>
+    <td><b>Available For Work</b></td>
   </tr>
   <tr>
     <td>🚀 <b>Expertise</b></td>
-    <td>AI-powered tools · Healthcare booking platforms · E-commerce with admin dashboards · Accessibility-focused apps</td>
+    <td><b>AI-powered tools · Healthcare booking platforms · E-commerce with admin dashboards · Accessibility-focused apps</b></td>
   </tr>
 </table>
 
@@ -51,16 +51,16 @@
 
 ## 🌐 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/zunairamughal/"><img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=D2601A" /></a>
-  <a href="mailto:zunairamughal.dev@gmail.com"><img src="https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=D2601A" /></a>
+  <a href="https://www.linkedin.com/in/zunairamughal/"><img src="https://img.shields.io/badge/LinkedIn-00F2FE?style=for-the-badge&logo=linkedin&logoColor=121212" /></a>
+  <a href="mailto:zunairamughal.dev@gmail.com"><img src="https://img.shields.io/badge/Email-FF8C00?style=for-the-badge&logo=gmail&logoColor=121212" /></a>
 </p>
 
 ---
 
 ## 💼 Professional Inquiries
 
-| | |
-|---|---|
+| Attribute | Details |
+| :--- | :--- |
 | **Availability** | Freelance · Remote Contracts · Full-time |
 | **Clients** | Open worldwide |
 | **Response Time** | Within 24 hours |
@@ -70,31 +70,31 @@
 
 ## 🚀 Featured Projects
 
-### AI Resume Analyzer
+### 🤖 AI Resume Analyzer
 An AI-powered resume analysis tool that scores resumes against ATS (Applicant Tracking System) criteria and provides actionable improvement suggestions. Includes both AI-assisted resume editing and a from-scratch resume builder.
 
 **🔧 Tech Stack:** `Flutter` · `AI/NLP Integration` · `Firebase`
 <!-- ![Resume Analyzer Screenshot](link-to-screenshot.png) -->
 
-### Expense Tracker
+### 📊 Expense Tracker
 A personal finance app for tracking income and expenses, with category breakdowns and visual spending insights.
 
 **🔧 Tech Stack:** `Flutter` · `Firebase` · `BLoC`
 <!-- ![Expense Tracker Screenshot](link-to-screenshot.png) -->
 
-### Doctor Appointment App
+### 🩺 Doctor Appointment App
 A healthcare booking platform where users browse doctors and conditions, then schedule appointments either in-person or online via integrated video/voice calls.
 
 **🔧 Tech Stack:** `Flutter` · `Firebase` · `Real-time Communication (Video/Voice)`
 <!-- ![Doctor Appointment Screenshot](link-to-screenshot.png) -->
 
-### Furniture E-Commerce App
+### 🛒 Furniture E-Commerce App
 A full-featured shopping app with browsing, cart, and favorites for customers, plus a complete admin panel for managing product listings, inventory, and edits.
 
 **🔧 Tech Stack:** `Flutter` · `Firebase` · `REST APIs` · `Admin Dashboard`
 <!-- ![Furniture App Screenshot](link-to-screenshot.png) -->
 
-### ADHD Task Manager
+### 🧠 ADHD Task Manager
 A task management app designed specifically for users with ADHD — featuring compulsion-based rewards and customizable timers to support focus and task completion.
 
 **🔧 Tech Stack:** `Flutter` · `Local Notifications` · `State Management`
@@ -121,12 +121,14 @@ A task management app designed specifically for users with ADHD — featuring co
 ---
 
 ## 📊 GitHub Stats
-![Zunaira's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZunairaMughal24&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D2601A&icon_color=D2601A&text_color=FFFFFF)
+![Zunaira's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZunairaMughal24&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=FF8C00&text_color=FFFFFF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZunairaMughal24&layout=compact&hide_border=true&bg_color=0D1117&title_color=D2601A&text_color=FFFFFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZunairaMughal24&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=FFFFFF)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ZunairaMughal24&hide_border=true&background=0D1117&ring=D2601A&fire=D2601A&currStreakLabel=D2601A&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ZunairaMughal24&hide_border=true&background=0D1117&ring=FF8C00&fire=00F2FE&currStreakLabel=FF8C00&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF)
 
 ---
 
-_Turning ideas into actual software. No fluff._
+<p align="center">
+  <i>✨ Turning ideas into actual software. No fluff. ✨</i>
+</p>
