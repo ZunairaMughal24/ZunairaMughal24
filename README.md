@@ -133,17 +133,17 @@ A task management app designed specifically for users with ADHD — featuring co
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35" /> GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-rstacruz.vercel.app/api?username=ZunairaMughal24&show_icons=true&hide_border=true&theme=solarized-light" width="48%" alt="Zunaira's GitHub Stats" />
-  <img src="https://github-readme-stats-git-master-rstacruz.vercel.app/api/top-langs/?username=ZunairaMughal24&layout=compact&hide_border=true&theme=solarized-light" width="48%" alt="Zunaira's Top Languages" />
+  <img src="https://github-readme-stats-git-master-rstacruz.vercel.app/api?username=ZunairaMughal24&show_icons=true&hide_border=true&theme=gotham" width="48%" alt="Zunaira's GitHub Stats" />
+  <img src="https://github-readme-stats-git-master-rstacruz.vercel.app/api/top-langs/?username=ZunairaMughal24&layout=compact&hide_border=true&theme=gotham" width="48%" alt="Zunaira's Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ZunairaMughal24&hide_border=true&theme=solarized-light" width="97%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ZunairaMughal24&hide_border=true&theme=gotham" width="97%" alt="GitHub Streak" />
 </p>
 
 ---
 
-## Professional Inquiries
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="35" /> Professional Inquiries
 
 | Category | Details |
 |---|---|
