@@ -1,38 +1,26 @@
-# <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF8C00&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Zunaira+Mughal+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Flutter+Mobile+Developer+%F0%9F%93%B1;iOS+%2B+Android+%2B+Web+Engineer+%F0%9F%92%BB" alt="Typing SVG" /></a></p>
-
-
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF8C00&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Zunaira+Mughal+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Flutter+Mobile+Developer+%F0%9F%93%B1;iOS+%2B+Android+%2B+Web+Engineer+%F0%9F%92%BB" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
-
   <b>⚡ Flutter Mobile (iOS + Android) & Web App Developer ⚡</b>
-
 </p>
 
-
-
 <p align="center">
-
   Remote Worldwide · Open to contracts, freelance & full-time roles
-
 </p>
 
-
-
 <p align="center">
-
   <img src="https://img.shields.io/badge/Status-Open_to_Work-FF8C00?style=for-the-badge&logo=github&logoColor=121212" />
-
 </p>
-
-
 
 <p align="center">
-
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FFD700&center=true&vCenter=true&width=800&lines=%F0%9F%8C%9F+Building+production-grade+Flutter+experiences;%F0%9F%9A%80+Engineering+clean%2C+scalable+mobile+architecture;%F0%9F%8E%AF+Turning+complex+problems+into+seamless+apps" alt="Typing SVG" /></a>
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FFD700&center=true&vCenter=true&width=800&lines=%F0%9F%8C%9F+Building+production-grade+Flutter+experiences;%F0%9F%9A%80+Engineering+clean%2C+scalable+mobile+architecture;%F0%9F%8E%AF+Turning+complex+problems+into+seamless+apps" alt="Typing SVG" />
+  </a>
 </p>
-
-
 
 ---
 
