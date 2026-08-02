@@ -1,24 +1,159 @@
-# <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF8C00&center=true&vCenter=true&width=850&lines=%3C%2F%3E+Zunaira_Mughal.dart;void+main()+%3D%3E+Build(ProductionGradeApps);%F0%9F%A4%96+Compiling+Ideas+Into+High-Performance+Bytecode" alt="Typing SVG" /></a></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,25&height=200&section=header&text=ZUNAIRA%20MUGHAL&fontSize=42&fontColor=FF8C00&animation=fadeIn&fontAlignY=38&desc=Flutter%20Mobile%20(iOS%20%2B%20Android)%20%26%20Web%20Engineer&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+</p>
+
+# <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF8C00&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Zunaira+Mughal+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Flutter+Mobile+Developer+%F0%9F%93%B1;iOS+%2B+Android+%2B+Web+Engineer+%F0%9F%92%BB" alt="Typing SVG" /></a></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kernel-Flutter_%7C_Dart-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Target-iOS_%7C_Android_%7C_Web-FF8C00?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-0x00_IDLE_(Open_for_Contracts)-00FF87?style=for-the-badge&logo=github&logoColor=121212" />
+  <b>⚡ Flutter Mobile (iOS + Android) & Web App Developer ⚡</b>
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=FFD700&center=true&vCenter=true&width=850&lines=%E2%9A%A1+import+'package%3Azunaira%2Fclean_architecture.dart'%3B;%F0%9F%90%9B+Zero+Unhandled+Exceptions.+60FPS+UI+Thread+Guaranteed.;%F0%9F%9A%80+Deploying+scalable+systems+from+dev_environment+to+production." alt="Typing SVG" /></a>
+  Remote Worldwide · Open to contracts, freelance & full-time roles
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open_to_Work-FF8C00?style=for-the-badge&logo=github&logoColor=121212" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FFD700&center=true&vCenter=true&width=800&lines=%F0%9F%8C%9F+Building+production-grade+Flutter+experiences;%F0%9F%9A%80+Engineering+clean%2C+scalable+mobile+architecture;%F0%9F%8E%AF+Turning+complex+problems+into+seamless+apps" alt="Typing SVG" /></a>
 </p>
 
 ---
 
-## 🤓 `whoami` --verbose
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/zunaira-mughal-80637b276/"><img src="https://img.shields.io/badge/LinkedIn-Connect_Here-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:zunairamughal.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Inquire_Now-D44638?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-```syslog
-[INFO] [INIT_PROFILE]: Loading engineer metadata...
-[INFO] Name: Zunaira Mughal
-[INFO] System Role: Senior Cross-Platform Systems Developer
-[INFO] Uptime: 3+ Years Commercial & Open-Source Engineering
-[INFO] Locale: PKT (UTC+5) || Remote_Worldwide
-[INFO] Primary Directive: Refactoring chaos into modular, testable, low-latency codebases.
-[INFO] Paradigm: Reactive Programming, Clean Architecture, Immutable State, Offline-First.
+---
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Developer.png" width="35" /> About Me
+
+<table>
+  <tr>
+    <td width="25%">💻 <b>Role</b></td>
+    <td><b style="color: #FF9900;">Flutter Developer</b></td>
+  </tr>
+  <tr>
+    <td>📈 <b>Experience</b></td>
+    <td><b style="color: #FF5E62;">3+ Years</b></td>
+  </tr>
+  <tr>
+    <td>📍 <b>Location</b></td>
+    <td><b>Pakistan 🇵🇰 · Remote Worldwide</b></td>
+  </tr>
+  <tr>
+    <td>🎯 <b>Focus</b></td>
+    <td><b style="color: #FFB900;">Polished UI/UX + Firebase/API Integration</b></td>
+  </tr>
+  <tr>
+    <td>🟢 <b>Status</b></td>
+    <td><b style="color: #00FF87;">Open to Contracts & Full-time</b></td>
+  </tr>
+  <tr>
+    <td>🚀 <b>Expertise</b></td>
+    <td><b>AI-powered tools · Healthcare booking platforms · E-commerce with admin dashboards · Accessibility-focused apps</b></td>
+  </tr>
+</table>
+
+---
+
+## Featured Projects
+
+### 1. AI Resume Analyzer
+An AI-powered resume analysis tool that scores resumes against ATS (Applicant Tracking System) criteria and provides actionable improvement suggestions. Includes both AI-assisted resume editing and a from-scratch resume builder.
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%2FNLP%20Integration-FF5E62?style=flat-square" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+</p>
+
+### 2. Expense Tracker
+A personal finance app for tracking income and expenses, with category breakdowns and visual spending insights.
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/BLoC-FF9900?style=flat-square" />
+</p>
+
+### 3. Doctor Appointment App
+A healthcare booking platform where users browse doctors and conditions, then schedule appointments either in-person or online via integrated video/voice calls.
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Real--time%20Communication-00FF87?style=flat-square" />
+</p>
+
+### 4. Furniture E-Commerce App
+A full-featured shopping app with browsing, cart, and favorites for customers, plus a complete admin panel for managing product listings, inventory, and edits.
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/REST%20APIs-FFB900?style=flat-square" />
+  <img src="https://img.shields.io/badge/Admin%20Dashboard-FF5E62?style=flat-square" />
+</p>
+
+### 5. ADHD Task Manager
+A task management app designed specifically for users with ADHD — featuring compulsion-based rewards and customizable timers to support focus and task completion.
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Local%20Notifications-FF5E62?style=flat-square" />
+  <img src="https://img.shields.io/badge/State%20Management-FF9900?style=flat-square" />
+</p>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="35" /> Tech Stack & Tools
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-D2601A?style=for-the-badge&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC-D2601A?style=for-the-badge&logo=white)
+![Provider](https://img.shields.io/badge/Provider-D2601A?style=for-the-badge&logoProvider&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-D2601A?style=for-the-badge&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-D2601A?style=for-the-badge&logo=white)
+![MVVM](https://img.shields.io/badge/MVVM-D2601A?style=for-the-badge&logo=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35" /> GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ZunairaMughal24&show_icons=true&hide_border=true&bg_color=00000000&title_color=FF8C00&text_color=FFFFFF&icon_color=FFD700&count_private=true" width="48%" alt="Zunaira's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ZunairaMughal24&layout=compact&hide_border=true&bg_color=00000000&title_color=FF8C00&text_color=FFFFFF" width="48%" alt="Zunaira's Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ZunairaMughal24&hide_border=true&background=0B0E14&ring=FF8C00&fire=FFD700&currStreakNum=FFD700&sideNums=FFD700&currStreakLabel=FF8C00&sideLabels=FFFFFF&dates=FFFFFF&v=2" width="600" alt="GitHub Streak" />
+</p>
+
+---
+
+## Professional Inquiries
+
+| Category | Details |
+|---|---|
+| **💼 Availability** | <b style="color: #FF9900;">Freelance · Remote Contracts · Full-time</b> |
+| **🌍 Clients** | Open worldwide |
+| **⏱️ Response Time** | Within 24 hours |
+| **✉️ Email** | [zunairamughal.dev@gmail.com](mailto:zunairamughal.dev@gmail.com) |
+
+---
+
+<p align="center">
+  <i>✨ Turning ideas into actual software. No fluff. ✨</i>
+</p>
