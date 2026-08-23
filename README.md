@@ -135,12 +135,12 @@ A task management app designed specifically for users with ADHD — featuring co
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35" /> GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZunairaMughal24&show_icons=true&hide_border=true&bg_color=000000&title_color=FF8C00&text_color=FFFFFF&icon_color=FFD700&count_private=true" width="48%" alt="Zunaira's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZunairaMughal24&layout=compact&hide_border=true&bg_color=000000&title_color=FF8C00&text_color=FFFFFF" width="48%" alt="Zunaira's Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ZunairaMughal24&show_icons=true&hide_border=true&bg_color=000000&title_color=FF8C00&text_color=FFFFFF&icon_color=FFD700&count_private=true" width="48%" alt="Zunaira's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ZunairaMughal24&layout=compact&hide_border=true&bg_color=000000&title_color=FF8C00&text_color=FFFFFF" width="48%" alt="Zunaira's Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZunairaMughal24&hide_border=true&background=000000&ring=FF8C00&fire=FFD700&currStreakNum=FFD700&sideNums=FFD700&currStreakLabel=FF8C00&sideLabels=FFFFFF&dates=FFFFFF" width="600" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ZunairaMughal24&hide_border=true&background=000000&ring=FF8C00&fire=FFD700&currStreakNum=FFD700&sideNums=FFD700&currStreakLabel=FF8C00&sideLabels=FFFFFF&dates=FFFFFF" width="600" alt="GitHub Streak" />
 </p>
 
 ---
