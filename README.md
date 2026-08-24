@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>⚡ Flutter Mobile (iOS + Android) & Web App Developer ⚡</b>
+  <b>⚡ Flutter Mobile (iOS + Android) & Web App Developer. ⚡</b>
 </p>
 
 <p align="center">
