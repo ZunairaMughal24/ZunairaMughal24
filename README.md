@@ -140,8 +140,8 @@ A task management app designed specifically for users with ADHD — featuring co
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ZunairaMughal24&theme=dark&hide_border=true&background=000000&ring=FF8C00&fire=FFD700&currStreakNum=FFD700&sideNums=FFD700&currStreakLabel=FF8C00&sideLabels=FFFFFF&dates=FFFFFF" width="600" alt="GitHub Streak" />
-</p> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZunairaMughal24&theme=dark&hide_border=true&background=000000&ring=FF8C00&fire=FFD700&currStreakNum=FFD700&sideNums=FFD700&currStreakLabel=FF8C00&sideLabels=FFFFFF&dates=FFFFFF" width="600" alt="GitHub Streak" />
+</p>
 
 ---
 
